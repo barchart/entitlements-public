@@ -21,7 +21,7 @@
     "SDK"
   ],
   "dependencies": {
-    "@barchart/common-js": "^4.2.0"
+    "@barchart/common-js": "^5.6.0"
   },
   "license": "MIT"
 }
